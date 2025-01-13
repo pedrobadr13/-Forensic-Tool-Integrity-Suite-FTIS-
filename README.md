@@ -1,7 +1,7 @@
 # Forensic Tool Integrity Suite (FTIS) 🚀
 
 ## Overview 🔍
-The **Forensic Tool Integrity Suite (FTIS)** is a comprehensive forensic analysis and diagnostic tool tailored for Windows systems. It enables users to evaluate system integrity, identify vulnerabilities, and detect potential compromises effectively. Designed for IT professionals, cybersecurity analysts, and system administrators, FTIS simplifies complex forensic tasks with an easy-to-use command-line interface.
+The **Forensic Tool Integrity Suite (FTIS)** is a comprehensive forensic analysis and diagnostic tool tailored for Windows systems. It enables users to evaluate system integrity, identify vulnerabilities, and detect potential compromises effectively. Designed for IT professionals, cybersecurity analysts, and system administrators, FTIS simplifies complex forensic tasks with an easy-to-use command-line interface. The project is specifically designed to run on **Windows PowerShell**.
 
 ---
 
@@ -66,7 +66,7 @@ The **Forensic Tool Integrity Suite (FTIS)** is a comprehensive forensic analysi
 
 ## Requirements 📦
 - Python 3.x
-- Windows PowerShell or Command Prompt
+- **Windows PowerShell** or Command Prompt
 
 ---
 
